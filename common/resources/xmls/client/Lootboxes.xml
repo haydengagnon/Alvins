@@ -1,0 +1,169 @@
+<Lootboxes>
+  <Lootcase type="0x0001" id="Bronze Lootbox">
+    <CrateLoot chance="0.92">
+      <Loot name="Undead Lair Key">Item</Loot>
+      <Loot name="Abyss of Demons Key">Item</Loot>
+      <Loot name="Snake Pit Key">Item</Loot>
+      <Loot name="Sprite World Key">Item</Loot>
+      <Loot name="Ocean Trench Key">Item</Loot>
+      <Loot name="Manor Key">Item</Loot>
+      <Loot name="Davy's Key">Item</Loot>
+      <Loot name="Theatre Key">Item</Loot>
+      <Loot name="Lab Key">Item</Loot>
+      <Loot name="Heavenly Rift key">Item</Loot>
+      <Loot name="The Dojo Key">Item</Loot>
+      <Loot name="Storm Palace Key">Item</Loot>
+      <Loot name="Tunnel of Pain Key">Item</Loot>
+      <Loot name="Concealment Key">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.05">
+      <Loot name="Attack Eon">Item</Loot>
+      <Loot name="Vitality Eon">Item</Loot>
+      <Loot name="Wisdom Eon">Item</Loot>
+      <Loot name="Dexterity Eon">Item</Loot>
+      <Loot name="Defense Eon">Item</Loot>
+      <Loot name="Speed Eon">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.02">
+      <Loot name="Lost Scripture #2">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.01">
+      <Loot name="Tiny Sacred Fragment">Item</Loot>
+      <Loot name="Two Tiny Sacred Fragments">Item</Loot>
+      <Loot name="Three Tiny Sacred Fragments">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+  <Lootcase type="0x0002" id="Silver Lootbox">
+    <CrateLoot chance="0.79">
+      <Loot name="Elemental Ruins Key">Item</Loot>
+      <Loot name="Ice Cave Key">Item</Loot>
+      <Loot name="The Unspeakable Key">Item</Loot>
+      <Loot name="Cemetery Key">Item</Loot>
+      <Loot name="Draconis Key">Item</Loot>
+      <Loot name="Woodland Labyrinth Key">Item</Loot>
+      <Loot name="Deadwater Docks Key">Item</Loot>
+      <Loot name="The Crawling Depths Key">Item</Loot>
+      <Loot name="Puppet Master's Encore Key">Item</Loot>
+      <Loot name="Crimson Showdown Key">Item</Loot>
+      <Loot name="Abandoned Basement Key">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.1">
+      <Loot name="Onrane">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.05">
+      <Loot name="Life Eon">Item</Loot>
+      <Loot name="Mana Eon">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.04">
+      <Loot name="Lost Scripture #2">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.01">
+      <Loot name="Small Sacred Fragment">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+  <Lootcase type="0x0003" id="Gold Lootbox">
+    <CrateLoot chance="0.78">
+      <Loot name="Shatters Key">Item</Loot>
+      <Loot name="Candy Key">Item</Loot>
+      <Loot name="The Catacombs Key">Item</Loot>
+      <Loot name="Galactic Plateau Key">Item</Loot>
+      <Loot name="Crypt of the Illusionist Key">Item</Loot>
+      <Loot name="Ancient Depths Key">Item</Loot>
+      <Loot name="Garden of Chaos Key">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.1">
+      <Loot name="Onrane Cache">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.05">
+      <Loot name="Might Eon">Item</Loot>
+      <Loot name="Protection Eon">Item</Loot>
+      <Loot name="Restoration Eon">Item</Loot>
+      <Loot name="Luck Eon">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.06">
+      <Loot name="Lost Scripture #2">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.01">
+      <Loot name="Medium Sacred Fragment">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+  <Lootcase type="0x0004" id="Elite Lootbox">
+    <CrateLoot chance="0.424">
+      <Loot name="1000 Gold">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.5">
+      <Loot name="Lost Scripture #1">Item</Loot>
+      <Loot name="Lost Scripture #2">Item</Loot>
+      <Loot name="10000 Gold">Item</Loot>
+      <Loot name="Ultimate Onrane Cache">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.04">
+      <Loot name="Master Eon">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.025">
+      <Loot name="Legendary Essence">Item</Loot>
+      <Loot name="Sacred Essence">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.01">
+      <Loot name="Rusted Staff">Item</Loot>
+      <Loot name="Rusted Wand">Item</Loot>
+      <Loot name="Rusted Dagger">Item</Loot>
+      <Loot name="Rusted Sword">Item</Loot>
+      <Loot name="Rusted Blades">Item</Loot>
+      <Loot name="Rusted Katana">Item</Loot>
+      <Loot name="Rusted Lance">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.001">
+      <Loot name="Jackpot">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+  <Lootcase type="0x0005" id="Premium Lootbox">
+    <CrateLoot chance="1.00">
+      <Loot name="Royal Pet Stone">Item</Loot>
+      <Loot name="Twilight Pet Stone">Item</Loot>
+      <Loot name="Sentient Pet Stone">Item</Loot>
+      <Loot name="Thundering Pet Stone">Item</Loot>
+      <Loot name="Mechanical Pet Stone">Item</Loot>
+      <Loot name="All-Seeing Pet Stone">Item</Loot>
+      <Loot name="Sprite Pet Stone">Item</Loot>
+      <Loot name="Exotic Pet Stone">Item</Loot>
+      <Loot name="Vampiric Pet Stone">Item</Loot>
+      <Loot name="Scaly Pet Stone">Item</Loot>
+      <Loot name="Succubus Pet Stone">Item</Loot>
+      <Loot name="Ghostly Pet Stone">Item</Loot>
+      <Loot name="Soaring Pet Stone">Item</Loot>
+      <Loot name="Joker Pet Stone">Item</Loot>
+      <Loot name="Void Pet Stone">Item</Loot>
+      <Loot name="Marble Pet Stone">Item</Loot>
+      <Loot name="Hellish Pet Stone">Item</Loot>
+      <Loot name="Oceanic Pet Stone">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+  <Lootcase type="0x0006" id="Legendary Lootbox">
+    <CrateLoot chance="0.95">
+      <Loot name="Luxury Shard">Item</Loot>
+      <Loot name="Crimson Shard">Item</Loot>
+      <Loot name="Extinction Shard">Item</Loot>
+      <Loot name="Nightmare Shard">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.05">
+      <Loot name="Godly Remnant">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+
+  <Lootcase type="0x0007" id="Event Lootbox">
+    <CrateLoot chance="0.89">
+      <Loot name="10000 Gold">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.1">
+      <Loot name="Ultimate Onrane Cache">Item</Loot>
+      <Loot name="Master Eon">Item</Loot>
+    </CrateLoot>
+    <CrateLoot chance="0.01">
+      <Loot name="Luxury Shard">Item</Loot>
+      <Loot name="Crimson Shard">Item</Loot>
+      <Loot name="Extinction Shard">Item</Loot>
+      <Loot name="Nightmare Shard">Item</Loot>
+    </CrateLoot>
+  </Lootcase>
+</Lootboxes>

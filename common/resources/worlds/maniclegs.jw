@@ -1,0 +1,16 @@
+﻿{
+  "id": 0,
+  "isLimbo": false,
+  "persist": false,
+  "pvp": false,
+  "name": "MANIC MACHO LEGS PORTAL",
+  "sbName": "MANIC MACHO LEGS PORTAL",
+  "difficulty": 0,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": true,
+  "showDisplays": false,
+  "portals": [0x308d],
+  "maps": [ "maniclegs.jm" ],
+  "music": [ "theend" ]
+}

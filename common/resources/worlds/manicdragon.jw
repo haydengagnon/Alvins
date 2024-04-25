@@ -1,0 +1,16 @@
+﻿{
+  "id": 0,
+  "isLimbo": false,
+  "persist": false,
+  "pvp": false,
+  "name": "MANIC KING DRAGON PORTAL",
+  "sbName": "MANIC KING DRAGON PORTAL",
+  "difficulty": 0,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": true,
+  "showDisplays": false,
+  "portals": [0x3091],
+  "maps": [ "manicdragon.jm" ],
+  "music": [ "theend" ]
+}

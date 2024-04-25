@@ -1,0 +1,16 @@
+﻿{
+  "id": 0,
+  "isLimbo": false,
+  "persist": false,
+  "pvp": false,
+  "name": "THE FALLEN RAID",
+  "sbName": "THE FALLEN RAID",
+  "difficulty": 0,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": true,
+  "showDisplays": false,
+  "portals": [0x20e7],
+  "maps": [ "fallen.jm" ],
+  "music": [ "outsidetoday" ]
+}

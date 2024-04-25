@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"rs golds land",
+"sbName":"rs golds land",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5ca1],
+"maps": [ "rsgoldsland.jm" ],
+"music":["bloons"]}

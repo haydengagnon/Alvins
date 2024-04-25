@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"rainbow road",
+"sbName":"rainbow road",
+"difficulty":0,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x57e8],
+"maps":["alvinmeme.jm"],
+"music":["alvinrainbow"]}

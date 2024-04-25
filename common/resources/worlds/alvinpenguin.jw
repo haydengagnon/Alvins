@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo": false,
+"persist": true,
+"name":"Pizza Parlor",
+"sbName":"Pizza Parlor",
+"difficulty":4,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x5755],
+"maps":["alginpenguin.jm"],
+"music":["alvinpizza"]}

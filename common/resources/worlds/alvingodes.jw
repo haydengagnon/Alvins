@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"Master Godes Samnents",
+"sbName":"Master Godes Samnents",
+"difficulty":0,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x5957],
+"maps":["alvingodes.jm"],
+"music":["godesmusic"]}

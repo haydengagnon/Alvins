@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"Gumball Mini",
+"sbName":"Gumball Mini",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5c78],
+"maps": [ "hagoonmiku.jm" ],
+"music":["bloons"]}

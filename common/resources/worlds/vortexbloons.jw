@@ -1,0 +1,15 @@
+{
+  "id": 0,
+  "isLimbo": false,
+  "persist": false,
+  "name": "bloons VORTEX",
+  "sbName": "bloons VORTEX",
+  "difficulty": 5,
+  "background": 0,
+  "blocking": 1,
+  "restrictTp": false,
+  "showDisplays": false,
+  "portals": [0x20c4],
+  "maps": [ "vortex.jm" ],
+  "music": [ "bloons" ]
+}

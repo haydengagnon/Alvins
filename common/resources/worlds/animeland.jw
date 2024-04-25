@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"Anime Land",
+"sbName":"Anime Land",
+"difficulty":0,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x5731],
+"maps":["animeland.jm"],
+"music":["animeland"]}

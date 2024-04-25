@@ -1,0 +1,36 @@
+{
+	"dbInfo": {
+		"host": "127.0.0.1", //144.217.80.74
+		"port": "6379", //1985 - 6379
+		"auth": "",//h9NTv5gfG4aC9aJBX33cvwGZgGLMhGM7A3uYPds68ZDea4zNPgxzgzZUaUUvp6FN7HpG4Lgxc5PudSkGTWgmPTPDjc8T5k9wCz4L2", //2NSVsRREv3FYXPGm - none
+		"index": "2"
+	},
+	"serverInfo": {
+		"type": "World",
+		"name": "alvin realm lol",
+		"address": "127.0.0.1", //"135.148.138.227", //162.248.94.239
+		"port": "2050",
+		"coordinates": {
+			"latitude": "0",
+			"longitude": "0"
+		},
+		"adminOnly": "false"
+	},
+	"serverSettings": {
+		"logFolder": "./logs",
+		"resourceFolder": "./resources",
+		"version": "Alvin1.7.0",
+		"tps": "5",
+		"mode": "Single",
+		"key": "BA15DE",
+		"maxConnections": "300",
+		"maxPlayers": "200",
+		"maxPlayersWithPriority": "200",
+		"enableMarket": "false",
+		"checkClient": "false",
+		"tokens": [ "sleeper, welcome" ], //ex: ["abcdefg", "wassup", "potato", "nice"]
+		"minutesToRestart": 30,
+		"minutesBeforeRestartFirstWarning": 5,
+		"minutesBeforeRestartSecondWarning": 1
+	}
+}

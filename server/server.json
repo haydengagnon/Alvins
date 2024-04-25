@@ -1,0 +1,25 @@
+{
+  "dbInfo": {
+    "host": "127.0.0.1",
+    "port": "6379", //1985 - 6379
+    "auth": "",//h9NTv5gfG4aC9aJBX33cvwGZgGLMhGM7A3uYPds68ZDea4zNPgxzgzZUaUUvp6FN7HpG4Lgxc5PudSkGTWgmPTPDjc8T5k9wCz4L2", //2NSVsRREv3FYXPGm - none
+    "index": "2"
+  },
+  "serverInfo": {
+    "type": "Account",
+    "name": "AppEngine",
+    "bindAddress": "127.0.0.1", // enter * to bind to all network connections
+    "port": "8080"
+  },
+  "emailSettings": {
+    "stmp": "",
+    "email": "",
+    "port": 587,
+    "password": ""
+  },
+  "serverSettings": {
+    "logFolder": "./logs",
+    "resourceFolder": "./resources",
+    "sendGridApiKey": ""
+  }
+}

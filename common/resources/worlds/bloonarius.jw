@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"DA ALVIN ZONE",
+"sbName":"DA ALVIN ZONE",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5b98],
+"maps": [ "alvinzone.jm" ],
+"music":["bloons"]}

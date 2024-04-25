@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": false,
+"name":"SPACE 2",
+"sbName":"SPACE 2",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x590f],
+"maps":["alvindog.jm"],
+"music":["alvindog"]}

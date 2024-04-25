@@ -1,0 +1,16 @@
+﻿{
+  "id": 0,
+  "isLimbo": false,
+  "persist": false,
+  "pvp": false,
+  "name": "MANIC CAT RAID",
+  "sbName": "MANIC CAT RAID",
+  "difficulty": 0,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": true,
+  "showDisplays": false,
+  "portals": [0x308a],
+  "maps": [ "manicmohawk.jm" ],
+  "music": [ "theend" ]
+}

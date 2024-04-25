@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": false,
+"name":"Necrop",
+"sbName":"Necrop",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5b38],
+"maps": [ "necrop.jm" ],
+"music":["alvinlsd"]}

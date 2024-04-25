@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"MINNESOTA",
+"sbName":"MINNESOTA",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5b99],
+"maps": [ "minnesota.jm" ],
+"music":["bloons"]}

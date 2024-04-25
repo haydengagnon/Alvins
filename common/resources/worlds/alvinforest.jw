@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"Puggsy Forest",
+"sbName":"Puggsy Forest",
+"difficulty":0,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x580b],
+"maps":["alvinforest.jm"],
+"music":["alvinforest"]}

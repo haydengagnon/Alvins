@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"PEAVZ",
+"sbName":"PEAVZ",
+"difficulty":5,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x5c4a],
+"maps": [ "peavz.jm" ],
+"music":["pvz"]}

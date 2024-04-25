@@ -1,0 +1,16 @@
+﻿{
+  "id": 0,
+  "isLimbo": false,
+  "persist": false,
+  "pvp": false,
+  "name": "MANIC ERASER PORTAL",
+  "sbName": "MANIC ERASER PORTAL",
+  "difficulty": 0,
+  "background": 0,
+  "blocking": 0,
+  "restrictTp": true,
+  "showDisplays": false,
+  "portals": [0x308b],
+  "maps": [ "maniceraser.jm" ],
+  "music": [ "theend" ]
+}

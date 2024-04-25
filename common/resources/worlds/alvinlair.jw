@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist": true,
+"name":"Lair of Alvin",
+"sbName":"Lair of Alvin",
+"difficulty":2,
+"background":0,
+"blocking":1,
+"restrictTp":true,
+"showDisplays":false,
+"portals":[0x572a],
+"maps":["alvinlair.jm"],
+"music":["alvinlair"]}
