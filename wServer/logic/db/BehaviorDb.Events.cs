@@ -99,7 +99,7 @@ namespace wServer.logic
                      ),
                 new Threshold(0.0001,
                     new ItemLoot("Spaceship Token", 1 / 1000f),
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new ItemLoot("Potion of Vitality", 0.5),
                     new ItemLoot("beach Key", 1 / 15f),
 
@@ -108,12 +108,12 @@ namespace wServer.logic
                     new ItemLoot("Potion of Attack", 0.5),
                     new ItemLoot("Potion of Defense", 0.5),
                     new ItemLoot("Potion of Wisdom", 0.5),
-                    new ItemLoot("DEEZ NUTS PHONE ROUND", 1 / 100f),
-                    new ItemLoot("eggoblade", 1 / 100f),
+                    new ItemLoot("DEEZ NUTS PHONE ROUND", 1 / 50f),
+                    new ItemLoot("eggoblade", 1 / 50f),
                     new ItemLoot("Orb of Conflict", 1 / 10000f),
                     new ItemLoot("Dreadcull T1 Upgrade", 1 / 300f),
-                    new ItemLoot("HEAD noob", 1 / 100f),
-                    new ItemLoot("NUT SWORD", 1 / 100f)
+                    new ItemLoot("HEAD noob", 1 / 50f),
+                    new ItemLoot("NUT SWORD", 1 / 50f)
                     )
                 )
         .Init("Puggsy Monkey",
@@ -163,7 +163,7 @@ namespace wServer.logic
                      LootTemplates.StatPots()
                      ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new ItemLoot("Potion of Vitality", 0.5),
                     new ItemLoot("Potion of Dexterity", 0.5),
                     new ItemLoot("Potion of Speed", 0.5),
@@ -173,12 +173,12 @@ namespace wServer.logic
                     new ItemLoot("banana armor", 1 / 75f),
                     new ItemLoot("beach Key", 1 / 15f),
 
-                    new ItemLoot("BANANA BOW", 1 / 75f),
+                    new ItemLoot("BANANA BOW", 1 / 50f),
                     new ItemLoot("Spaceship Token", 1 / 1000f),
                     new ItemLoot("Spiritclaw", 1 / 1000f),
-                    new ItemLoot("Bonnea daggers", 1 / 300f),
+                    new ItemLoot("Bonnea daggers", 1 / 150f),
                     new ItemLoot("Dreadcull T1 Upgrade", 1 / 300f),
-                    new ItemLoot("Hlemet of the PHONE", 0.01)
+                    new ItemLoot("Hlemet of the PHONE", 1/ 50f)
                     )
                 )
         .Init("Deez Nuts Spawner",
@@ -393,16 +393,16 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new ItemLoot("Spaceship Token", 1 / 1000f),
-                    new ItemLoot("sons sparlking", 1 / 300f),
-                    new ItemLoot("skull of sans", 1 / 75f),
+                    new ItemLoot("sons sparlking", 1 / 150f),
+                    new ItemLoot("skull of sans", 1 / 50f),
                     new ItemLoot("Last Corridor Key", 1 / 15f),
                     new ItemLoot("spamton skull", 1 / 10000f),
                     new ItemLoot("Defense Eon", 1 / 1000f),
                     new ItemLoot("Dreadcull T2 Upgrade", 1 / 300f),
-                    new ItemLoot("bones son", 1 / 75f),
-                    new ItemLoot("sanas rink", 1 / 75f)
+                    new ItemLoot("bones son", 1 / 50f),
+                    new ItemLoot("sanas rink", 1 / 50f)
                     )
                 )
             .Init("Ian",
@@ -510,7 +510,7 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.01,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new ItemLoot("Potion of Life", 1),
                     new ItemLoot("Potion of Mana", 1),
                     new ItemLoot("Potion of Vitality", 1),
@@ -521,12 +521,12 @@ namespace wServer.logic
                     new ItemLoot("Potion of Attack", 1),
                     new ItemLoot("Potion of Defense", 1),
                     new ItemLoot("Potion of Wisdom", 1),
-                    new ItemLoot("fnaf PIZZA FULL", 1 / 75f),
-                    new ItemLoot("fazbear bow", 1 / 75f),
-                    new ItemLoot("fazbear hat", 1 / 75f),
-                    new ItemLoot("wand of freddo", 1 / 75f),
+                    new ItemLoot("fnaf PIZZA FULL", 1 / 50f),
+                    new ItemLoot("fazbear bow", 1 / 50f),
+                    new ItemLoot("fazbear hat", 1 / 50f),
+                    new ItemLoot("wand of freddo", 1 / 100f),
                     new ItemLoot("Dreadcull T2 Upgrade", 1 / 300f),
-                    new ItemLoot("pizzer slice", 1 / 300f),
+                    new ItemLoot("pizzer slice", 1 / 150f),
                     new ItemLoot("Spaceship Token", 1 / 1000f)
                     )
                 )
@@ -563,7 +563,7 @@ namespace wServer.logic
                      LootTemplates.StatPots()
                      ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new TierLoot(12, ItemType.Weapon, 0.25),
                     new TierLoot(12, ItemType.Armor, 0.25),
                     new ItemLoot("Potion of Vitality", 0.5),
@@ -579,10 +579,10 @@ namespace wServer.logic
                     new TierLoot(6, ItemType.Ring, 0.25),
                     new TierLoot(5, ItemType.Ring, 0.25),
                     new ItemLoot("teleporter yellow", 1 / 50f),
-                    new ItemLoot("choina stave", 1 / 300f),
+                    new ItemLoot("choina stave", 1 / 150f),
                     new ItemLoot("Dreadcull T1 Upgrade", 1 / 300f),
                     new ItemLoot("Spaceship Token", 1 / 1000f),
-                    new ItemLoot("xue hua tome tome", 1 / 300f),
+                    new ItemLoot("xue hua tome tome", 1 / 150f),
                     new ItemLoot("egg trap", 1 / 50f)
                     )
                 )
@@ -626,7 +626,7 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.01,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new TierLoot(12, ItemType.Weapon, 0.25),
                     new TierLoot(12, ItemType.Armor, 0.25),
                     new ItemLoot("Potion of Vitality", 0.5),
@@ -645,8 +645,8 @@ namespace wServer.logic
                     new ItemLoot("plunger wand", 1 / 50f),
                     new ItemLoot("seal covered in SHIT", 1 / 50f),
                     new ItemLoot("Dreadcull T1 Upgrade", 1 / 300f),
-                    new ItemLoot("box ring scary anger", 1 / 300f),
-                    new ItemLoot("the ROLLER", 1 / 300f),
+                    new ItemLoot("box ring scary anger", 1 / 150f),
+                    new ItemLoot("the ROLLER", 1 / 150f),
                     new ItemLoot("Spaceship Token", 1 / 1000f)
                     )
                 )
@@ -978,13 +978,13 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("netherite hlomet", 1 / 300f),
-                    new ItemLoot("blaze rod", 1 / 100f),
+                    new ItemLoot("netherite hlomet", 1 / 150f),
+                    new ItemLoot("blaze rod", 1 / 50f),
                     new ItemLoot("blaze key", 1 / 15f),
-                    new ItemLoot("blaze powder", 1 / 150f),
-                    new ItemLoot("blaze powered armors", 1 / 100f),
+                    new ItemLoot("blaze powder", 1 / 100f),
+                    new ItemLoot("blaze powered armors", 1 / 50f),
                     new ItemLoot("Nether key", 1 / 15f),
-                    new ItemLoot("BURN BABY BURN", 1 / 100f),
+                    new ItemLoot("BURN BABY BURN", 1 / 50f),
                     new ItemLoot("Dreadcull T5 Upgrade", 1 / 300f),
                     new ItemLoot("Deep Sea Token", 1 / 750f)
 
@@ -1007,12 +1007,12 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("slimy brim brim", 1 / 300f),
-                    new ItemLoot("lava waders grey", 1 / 100f),
+                    new ItemLoot("slimy brim brim", 1 / 150f),
+                    new ItemLoot("lava waders grey", 1 / 50f),
                     new ItemLoot("Nether key", 1 / 15f),
                     new ItemLoot("Dreadcull T5 Upgrade", 1 / 300f),
-                    new ItemLoot("netherfire orb", 1 / 300f),
-                    new ItemLoot("creamy armor rack", 1 / 100f)
+                    new ItemLoot("netherfire orb", 1 / 150f),
+                    new ItemLoot("creamy armor rack", 1 / 50f)
                 )
             )
         .Init("ghast",
@@ -1043,13 +1043,13 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("Ghast Tear", 1 / 300f),
-                    new ItemLoot("ghats brain", 1 / 100f),
+                    new ItemLoot("Ghast Tear", 1 / 150f),
+                    new ItemLoot("ghats brain", 1 / 50f),
                     new ItemLoot("Nether key", 1 / 15f),
 
                     new ItemLoot("Dreadcull T5 Upgrade", 1 / 300f),
-                    new ItemLoot("fiery staff", 1 / 100f),
-                    new ItemLoot("netheriter blod", 1 / 100f)
+                    new ItemLoot("fiery staff", 1 / 50f),
+                    new ItemLoot("netheriter blod", 1 / 50f)
                 )
             )
         .Init("Mindy",
@@ -1075,11 +1075,11 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("CARAMELLA MIC", 1 / 300f),
-                    new ItemLoot("MISSA INTE CHANSEN", 1 / 100f),
-                    new ItemLoot("NU ÄR VI HÄR MED", 1 / 100f),
+                    new ItemLoot("CARAMELLA MIC", 1 / 150f),
+                    new ItemLoot("MISSA INTE CHANSEN", 1 / 50f),
+                    new ItemLoot("NU ÄR VI HÄR MED", 1 / 50f),
                     new ItemLoot("Caramelldansen Key", 1 / 15f),
-                    new ItemLoot("eye of gardens", 1 / 100f),
+                    new ItemLoot("eye of gardens", 1 / 50f),
                     new ItemLoot("Dreadcull T6 Upgrade", 1 / 300f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
                     new ItemLoot("Deep Sea Token", 1 / 500f)
@@ -1109,13 +1109,13 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("GAMER BELT", 1 / 250f),
-                    new ItemLoot("CARAMEL EXPERIENCE", 1 / 90f),
-                    new ItemLoot("bikini trap", 1 / 100f),
+                    new ItemLoot("GAMER BELT", 1 / 150f),
+                    new ItemLoot("CARAMEL EXPERIENCE", 1 / 50f),
+                    new ItemLoot("bikini trap", 1 / 50f),
                     new ItemLoot("Caramelldansen Key", 1 / 15f),
 
                     new ItemLoot("Dreadcull T6 Upgrade", 1 / 100f),
-                    new ItemLoot("BLOWN THE FUCK OUT", 1 / 100f),
+                    new ItemLoot("BLOWN THE FUCK OUT", 1 / 50f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
                     new ItemLoot("Deep Sea Token", 1 / 500f)
                 )
@@ -1166,13 +1166,13 @@ namespace wServer.logic
                 new Threshold(0.0001,
                     new ItemLoot("50k Fame", 1 / 15f),
                     new ItemLoot("5000 Fame", 1 / 5f),
-                    new ItemLoot("Curved Blade", 1 / 100f),
-                    new ItemLoot("Terminus", 1 / 200f),
+                    new ItemLoot("Curved Blade", 1 / 50f),
+                    new ItemLoot("Terminus", 1 / 100f),
                     new ItemLoot("Dreadcull T6 Upgrade", 1 / 300f),
-                    new ItemLoot("NLE Choppa", 1 / 100f),
-                    new ItemLoot("Vooom bambambam BOOSH", 1 / 100f),
-                    new ItemLoot("Box of reaper teeth", 1 / 100f),
-                    new ItemLoot("speedy wet-pack", 1 / 300f)
+                    new ItemLoot("NLE Choppa", 1 / 50f),
+                    new ItemLoot("Vooom bambambam BOOSH", 1 / 50f),
+                    new ItemLoot("Box of reaper teeth", 1 / 50f),
+                    new ItemLoot("speedy wet-pack", 1 / 150f)
                 )
             )
         .Init("Nadine",
@@ -1199,10 +1199,10 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("KLAPPA ERA HÄNDER", 1 / 300f),
-                    new ItemLoot("LYSSNA OCH LÄR", 1 / 100f),
-                    new ItemLoot("jag skar mig i fingret", 1 / 100f),
-                    new ItemLoot("dancer prancer", 1 / 100f),
+                    new ItemLoot("KLAPPA ERA HÄNDER", 1 / 150f),
+                    new ItemLoot("LYSSNA OCH LÄR", 1 / 50f),
+                    new ItemLoot("jag skar mig i fingret", 1 / 50f),
+                    new ItemLoot("dancer prancer", 1 / 50f),
                     new ItemLoot("Caramelldansen Key", 1 / 15f),
                     new ItemLoot("ASGARD Token", 1 / 175f),
                     new ItemLoot("FAVELA Token", 1 / 250f),
@@ -1210,7 +1210,7 @@ namespace wServer.logic
                     new ItemLoot("A Fallen Light (Token)", 1 / 500f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
                     new ItemLoot("Dreadcull T6 Upgrade", 1 / 300f),
-                    new ItemLoot("GÖR SOM VI GÖR", 1 / 100f),
+                    new ItemLoot("GÖR SOM VI GÖR", 1 / 50f),
                     new ItemLoot("Deep Sea Token", 1 / 500f)
                 )
             )
@@ -1231,12 +1231,12 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.0001,
-                    new ItemLoot("coal amror", 1 / 200f),
+                    new ItemLoot("coal amror", 1 / 150f),
                     new ItemLoot("Dreadcull T5 Upgrade", 1 / 300f),
-                    new ItemLoot("ashes to ashes", 1 / 100f),
+                    new ItemLoot("ashes to ashes", 1 / 50f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
                     new ItemLoot("Wither Catalyst", 1 / 50000f),
-                    new ItemLoot("wither skeleton skull", 1 / 100f)
+                    new ItemLoot("wither skeleton skull", 1 / 50f)
 
                 )
             )
@@ -1259,14 +1259,14 @@ namespace wServer.logic
                     new ItemLoot("50k Fame", 1 / 100f),
                     new ItemLoot("5000 Fame", 1 / 20f),
                     new ItemLoot("Deep Space Key", 1 / 15f),
-                    new ItemLoot("viva la vida", 1 / 100f),
-                    new ItemLoot("midnight", 1 / 100f),
-                    new ItemLoot("interactivity", 1 / 100f),
+                    new ItemLoot("viva la vida", 1 / 50f),
+                    new ItemLoot("midnight", 1 / 50f),
+                    new ItemLoot("interactivity", 1 / 50f),
                     new ItemLoot("Dreadcull T6 Upgrade", 1 / 300f),
-                    new ItemLoot("interactive dagger", 1 / 100f),
+                    new ItemLoot("interactive dagger", 1 / 50f),
                     new ItemLoot("Deep Sea Token", 1 / 500f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
-                    new ItemLoot("Peace of Mind", 1 / 300f)
+                    new ItemLoot("Peace of Mind", 1 / 150f)
                 )
             )
         .Init("blazefiremin",
@@ -1495,8 +1495,8 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
-                    new ItemLoot("ORNAGE ESENZE", 1 / 500f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
+                    new ItemLoot("ORNAGE ESENZE", 1 / 150f),
                     new ItemLoot("Potion of Life", 0.5),
                     new ItemLoot("Potion of Mana", 0.5),
                     new ItemLoot("Potion of Vitality", 1),
@@ -1506,11 +1506,11 @@ namespace wServer.logic
                     new ItemLoot("Potion of Attack", 1),
                     new ItemLoot("Potion of Defense", 1),
                     new ItemLoot("Potion of Wisdom", 1),
-                    new ItemLoot("scepter zest orange", 1 / 75f),
+                    new ItemLoot("scepter zest orange", 1 / 50f),
                     new ItemLoot("Kitchen key", 1 / 15f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
-                    new ItemLoot("evil shiald", 1 / 75f),
-                    new ItemLoot("knife", 1 / 75f)
+                    new ItemLoot("evil shiald", 1 / 50f),
+                    new ItemLoot("knife", 1 / 50f)
                     )
                 )
             .Init("Tong Shau Ping",
@@ -1539,15 +1539,15 @@ namespace wServer.logic
                 new Threshold(0.0001,
                     new ItemLoot("50k Fame", 1 / 100f),
                     new ItemLoot("5000 Fame", 1 / 20f),
-                    new ItemLoot("fuckin ugly reds", 1 / 155f),
-                    new ItemLoot("balo seal", 1 / 155f),
+                    new ItemLoot("fuckin ugly reds", 1 / 50f),
+                    new ItemLoot("balo seal", 1 / 50f),
                     new ItemLoot("Hong Kong Key", 1 / 15f),
                     new ItemLoot("Dreadcull T7 Upgrade", 1 / 300f),
-                    new ItemLoot("kong hong 97", 1 / 155f),
-                    new ItemLoot("she Hong my Kong", 1 / 155f),
+                    new ItemLoot("kong hong 97", 1 / 50f),
+                    new ItemLoot("she Hong my Kong", 1 / 50f),
                     new ItemLoot("Deep Sea Token", 1 / 500f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
-                    new ItemLoot("alvin realms is gonna disappear", 1 / 500f)
+                    new ItemLoot("alvin realms is gonna disappear", 1 / 200f)
                     )
                 )
             .Init("Pear",
@@ -1581,8 +1581,8 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
-                    new ItemLoot("pear ward", 1 / 400f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
+                    new ItemLoot("pear ward", 1 / 150f),
                     new ItemLoot("Potion of Life", 0.5),
                     new ItemLoot("Potion of Mana", 0.5),
                     new ItemLoot("Potion of Vitality", 1),
@@ -1592,10 +1592,10 @@ namespace wServer.logic
                     new ItemLoot("Dreadcull T2 Upgrade", 1 / 300f),
                     new ItemLoot("Potion of Defense", 1),
                     new ItemLoot("Potion of Wisdom", 1),
-                    new ItemLoot("pear purples i on lols", 1 / 75f),
-                    new ItemLoot("pear head UT", 1 / 75f),
+                    new ItemLoot("pear purples i on lols", 1 / 50f),
+                    new ItemLoot("pear head UT", 1 / 50f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
-                    new ItemLoot("sorry FOR party rockin", 1 / 75f)
+                    new ItemLoot("sorry FOR party rockin", 1 / 50f)
                     )
                 )
             .Init("Apple",
@@ -1629,8 +1629,8 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
-                    new ItemLoot("apple slice", 1 / 500f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
+                    new ItemLoot("apple slice", 1 / 200f),
                     new ItemLoot("Potion of Life", 0.5),
                     new ItemLoot("Potion of Mana", 0.5),
                     new ItemLoot("Potion of Vitality", 1),
@@ -1640,10 +1640,10 @@ namespace wServer.logic
                     new ItemLoot("Potion of Defense", 1),
                     new ItemLoot("Potion of Wisdom", 1),
                     new ItemLoot("Dreadcull T2 Upgrade", 1 / 300f),
-                    new ItemLoot("caramelized bruh nugget", 1 / 75f),
-                    new ItemLoot("sweet candy drop", 1 / 75f),
+                    new ItemLoot("caramelized bruh nugget", 1 / 50f),
+                    new ItemLoot("sweet candy drop", 1 / 50f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
-                    new ItemLoot("candee sword", 1 / 400f)
+                    new ItemLoot("candee sword", 1 / 200f)
                     )
                 )
             .Init("Marshmallow",
@@ -1667,7 +1667,7 @@ namespace wServer.logic
                             )
                         ),
                 new Threshold(0.0001,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
                     new ItemLoot("Spaceship Token", 1 / 1000f),
                     new ItemLoot("Potion of Life", 0.5),
                     new ItemLoot("Potion of Mana", 0.5),
@@ -1678,10 +1678,10 @@ namespace wServer.logic
                     new ItemLoot("Potion of Attack", 1),
                     new ItemLoot("Potion of Defense", 1),
                     new ItemLoot("Potion of Wisdom", 1),
-                    new ItemLoot("mallow ring", 1 / 75f),
-                    new ItemLoot("sticky seal", 1 / 300f),
+                    new ItemLoot("mallow ring", 1 / 50f),
+                    new ItemLoot("sticky seal", 1 / 150f),
                     new ItemLoot("Spaceship Token", 1 / 275f),
-                    new ItemLoot("charred Quiver", 1 / 500f)
+                    new ItemLoot("charred Quiver", 1 / 200f)
                     )
                 )
             .Init("Herobrine",
@@ -1722,14 +1722,14 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("diamond chestplate", 1 / 75f),
-                new ItemLoot("mc shield irons", 1 / 75f),
+                new ItemLoot("diamond chestplate", 1 / 50f),
+                new ItemLoot("mc shield irons", 1 / 50f),
                 new ItemLoot("Legendsary Token 1", 1 / 2f),
-                new ItemLoot("steve head STOLEN", 1 / 75f),
+                new ItemLoot("steve head STOLEN", 1 / 50f),
                 new ItemLoot("Alvin Craft Key", 1 / 15f),
 
-                new ItemLoot("DiAMOND SWORD", 1 / 300f),
-                new ItemLoot("Diamond Pickaxe", 1 / 75f),
+                new ItemLoot("DiAMOND SWORD", 1 / 150f),
+                new ItemLoot("Diamond Pickaxe", 1 / 50f),
                 new ItemLoot("Spaceship Token", 1 / 500f),
                 new ItemLoot("Dreadcull T3 Upgrade", 1 / 300f)
                     )
@@ -1771,10 +1771,11 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("pickol suit", 1 / 300f),
-                new ItemLoot("pickle helm", 1 / 75f),
-                new ItemLoot("pickel wond", 1 / 75f),
-                new ItemLoot("r9ick ring", 1 / 75f),
+                new ItemLoot("raindow of Maxy", 1 / 25f),
+                new ItemLoot("pickol suit", 1 / 150f),
+                new ItemLoot("pickle helm", 1 / 50f),
+                new ItemLoot("pickel wond", 1 / 50f),
+                new ItemLoot("r9ick ring", 1 / 50f),
                 new ItemLoot("Spaceship Token", 1 / 1000f),
                 new ItemLoot("Potion of Life", 0.5),
                 new ItemLoot("Pickle Tunnel key", 1 / 15f),
@@ -1823,11 +1824,11 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("raindow of Maxy", 1 / 50f),
-                new ItemLoot("Sword of locked Gold Test", 1 / 75f),
-                new ItemLoot("godes JORTS", 1 / 75f),
-                new ItemLoot("Shields Of Pinks Master Samnents", 1 / 75f),
-                new ItemLoot("BOOK OF TURKEY", 1 / 75f),
+                new ItemLoot("raindow of Maxy", 1 / 25f),
+                new ItemLoot("Sword of locked Gold Test", 1 / 50f),
+                new ItemLoot("godes JORTS", 1 / 50f),
+                new ItemLoot("Shields Of Pinks Master Samnents", 1 / 50f),
+                new ItemLoot("BOOK OF TURKEY", 1 / 50f),
                 new ItemLoot("Spaceship Token", 1 / 1000f),
                 new ItemLoot("Potion of Life", 0.5),
                 new ItemLoot("Potion of Mana", 0.5),
@@ -1880,14 +1881,14 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("baldi HEAD why dead", 1 / 500f),
-                new ItemLoot("pencil staff", 1 / 75f),
+                new ItemLoot("baldi HEAD why dead", 1 / 200f),
+                new ItemLoot("pencil staff", 1 / 50f),
                 new ItemLoot("baldi Key", 1 / 15f),
 
-                new ItemLoot("PENCIL CUTTER", 1 / 75f),
-                new ItemLoot("SWEDEN GANG", 1 / 75f),
+                new ItemLoot("PENCIL CUTTER", 1 / 50f),
+                new ItemLoot("SWEDEN GANG", 1 / 50f),
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("NOTEBOOK BALDI", 1 / 75f),
+                new ItemLoot("NOTEBOOK BALDI", 1 / 50f),
                 new ItemLoot("Spaceship Token", 1 / 500f),
                 new ItemLoot("Dreadcull T3 Upgrade", 1 / 300f)
                     )
@@ -1931,13 +1932,13 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("ANIKI PRISM", 1 / 600f),
+                new ItemLoot("ANIKI PRISM", 1 / 200f),
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("ass dagger", 1 / 75f),
+                new ItemLoot("ass dagger", 1 / 50f),
                 new ItemLoot("Sex DUNGEON Key", 1 / 15f),
 
-                new ItemLoot("robes of cock", 1 / 75f),
-                new ItemLoot("SLAVE BOW", 1 / 75f),
+                new ItemLoot("robes of cock", 1 / 50f),
+                new ItemLoot("SLAVE BOW", 1 / 50f),
                 new ItemLoot("Spaceship Token", 1 / 500f),
                 new ItemLoot("Dreadcull T3 Upgrade", 1 / 300f)
                     )
@@ -1982,13 +1983,13 @@ namespace wServer.logic
                     ),
             new Threshold(0.0001,
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("Orendands Ring", 1 / 300f),
-                new ItemLoot("Cash Robe", 1 / 300f),
-                new ItemLoot("cash trap", 1 / 75f),
+                new ItemLoot("Orendands Ring", 1 / 150f),
+                new ItemLoot("Cash Robe", 1 / 150f),
+                new ItemLoot("cash trap", 1 / 50f),
                 new ItemLoot("Soulja in Egypt key", 1 / 15f),
 
-                new ItemLoot("money hide", 1 / 75f),
-                new ItemLoot("dollar STAR", 1 / 75f),
+                new ItemLoot("money hide", 1 / 50f),
+                new ItemLoot("dollar STAR", 1 / 50f),
                 new ItemLoot("Spaceship Token", 1 / 500f),
                 new ItemLoot("Dreadcull T3 Upgrade", 1 / 300f)
                     )
@@ -2030,14 +2031,14 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("DANGER PASKA", 1 / 300f),
-                new ItemLoot("hide armor", 1 / 75f),
+                new ItemLoot("DANGER PASKA", 1 / 150f),
+                new ItemLoot("hide armor", 1 / 100f),
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("finsword", 1 / 75f),
+                new ItemLoot("finsword", 1 / 50f),
                 new ItemLoot("FINLAND key", 1 / 15f),
 
-                new ItemLoot("suomi perkele", 1 / 75f),
-                new ItemLoot("FINLAND SCEPTER", 1 / 75f),
+                new ItemLoot("suomi perkele", 1 / 50f),
+                new ItemLoot("FINLAND SCEPTER", 1 / 50f),
                 new ItemLoot("Dreadcull T4 Upgrade", 1 / 300f),
                 new ItemLoot("FINLAND PRIDE", 1 / 10000f),
                 new ItemLoot("Spaceship Token", 1 / 500f)
@@ -2082,7 +2083,7 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("Invulnerability Shield", 1 / 3000f),
+                new ItemLoot("Invulnerability Shield", 1 / 500f),
                 new ItemLoot("tomatoes", 1 / 15f),
                 new ItemLoot("tomatoes", 1 / 25f),
                 new ItemLoot("tomatoes", 1 / 55f),
@@ -2110,8 +2111,8 @@ namespace wServer.logic
                 new ItemLoot("Dreadcull T5 Upgrade", 1 / 300f),
                 new ItemLoot("tomatoes", 1 / 75f),
                 new ItemLoot("Spaceship Token", 1 / 500f),
-                new ItemLoot("throwing quiver", 1 / 75f),
-                new ItemLoot("poggy gun", 1 / 75f)
+                new ItemLoot("throwing quiver", 1 / 50f),
+                new ItemLoot("poggy gun", 1 / 50f)
                     )
                 )
         .Init("GUMBALL",
@@ -2153,13 +2154,13 @@ namespace wServer.logic
                     ),
             new Threshold(0.0001,
                 new ItemLoot("50k Fame", 1 / 100f),
-                new ItemLoot("gumy staff", 1 / 155f),
+                new ItemLoot("gumy staff", 1 / 50f),
                 //new ItemLoot("forbidden key", 1 / 500f),
-                new ItemLoot("yetimi gay rat", 1 / 155f),
+                new ItemLoot("yetimi gay rat", 1 / 50f),
                 new ItemLoot("Gumball Land Key", 1 / 15f),
-                new ItemLoot("mouldy YUM YUM", 1 / 155f),
+                new ItemLoot("mouldy YUM YUM", 1 / 50f),
                 new ItemLoot("Dreadcull T8 Upgrade", 1 / 300f),
-                new ItemLoot("sealed candy skull", 1 / 400f),
+                new ItemLoot("sealed candy skull", 1 / 200f),
                 new ItemLoot("Deep Sea Token", 1 / 500f)
                     )
                 )
@@ -2211,13 +2212,13 @@ namespace wServer.logic
                         )
                     ),
             new Threshold(0.0001,
-                new ItemLoot("sun bottle", 1 / 300f),
-                new ItemLoot("sunblade", 1 / 75f),
+                new ItemLoot("sun bottle", 1 / 150f),
+                new ItemLoot("sunblade", 1 / 50f),
                 new ItemLoot("Sun Field key", 1 / 15f),
                 new ItemLoot("Dreadcull T5 Upgrade", 1 / 300f),
-                new ItemLoot("sunbab2", 1 / 75f),
-                new ItemLoot("sun book", 1 / 75f),
-                new ItemLoot("sunburnt robe", 1 / 75f)
+                new ItemLoot("sunbab2", 1 / 50f),
+                new ItemLoot("sun book", 1 / 50f),
+                new ItemLoot("sunburnt robe", 1 / 50f)
 
 
                     )
@@ -2267,12 +2268,12 @@ namespace wServer.logic
                     ),
             new Threshold(0.0001,
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("LAZER GUN REAL", 1 / 200f),
-                new ItemLoot("LAZER ESENZE", 1 / 75f),
+                new ItemLoot("LAZER GUN REAL", 1 / 100f),
+                new ItemLoot("LAZER ESENZE", 1 / 50f),
                 new ItemLoot("rainbow road key", 1 / 15f),
 
-                new ItemLoot("rainbow SEAL", 1 / 75f),
-                new ItemLoot("LAZAH", 1 / 75f),
+                new ItemLoot("rainbow SEAL", 1 / 50f),
+                new ItemLoot("LAZAH", 1 / 50f),
                 new ItemLoot("Dreadcull T4 Upgrade", 1 / 300f)
                     )
                 )
@@ -2311,7 +2312,7 @@ namespace wServer.logic
                     ),
             new Threshold(0.0001,
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("triangle helmet", 1 / 300f),
+                new ItemLoot("triangle helmet", 1 / 150f),
                 new ItemLoot("for real this time", 1 / 50f),
                 new ItemLoot("for real this time", 1 / 50f),
                 new ItemLoot("for real this time", 1 / 50f),
@@ -2321,8 +2322,8 @@ namespace wServer.logic
                 new ItemLoot("for real this time", 1 / 50f),
                 new ItemLoot("for real this time", 1 / 50f),
                 new ItemLoot("for real this time", 1 / 50f),
-                new ItemLoot("shape shoes", 1 / 100f),
-                new ItemLoot("yellows sword", 1 / 75f),
+                new ItemLoot("shape shoes", 1 / 50f),
+                new ItemLoot("yellows sword", 1 / 50f),
                 new ItemLoot("Dreadcull T4 Upgrade", 1 / 300f)
                     )
                 )
@@ -2435,10 +2436,10 @@ namespace wServer.logic
                 new ItemLoot("Legendsary Token 64", 1 / 25f),
                 new ItemLoot("Dreadcull T8 Upgrade", 1 / 200f),
                 new ItemLoot("50k Fame", 1 / 25f),
-                new ItemLoot("mushroom helm", 1 / 75f),
-                new ItemLoot("yes yes yes yes", 1 / 75f),
-                new ItemLoot("mushroom brown", 1 / 75f),
-                new ItemLoot("shroom shield", 1 / 300f)
+                new ItemLoot("mushroom helm", 1 / 50f),
+                new ItemLoot("yes yes yes yes", 1 / 50f),
+                new ItemLoot("mushroom brown", 1 / 50f),
+                new ItemLoot("shroom shield", 1 / 150f)
                 )
             )
     .Init("Mini Mushroom",
@@ -2519,13 +2520,13 @@ namespace wServer.logic
                 ),
             new Threshold(0.0001,
                 new ItemLoot("Spaceship Token", 1 / 500f),
-                new ItemLoot("dagger hedron", 1 / 155f),
-                new ItemLoot("pink pickle thung", 1 / 155f),
+                new ItemLoot("dagger hedron", 1 / 50f),
+                new ItemLoot("pink pickle thung", 1 / 50f),
                 new ItemLoot("octahedron LAIR Key", 1 / 15f),
                 new ItemLoot("Dreadcull T6 Upgrade", 1 / 300f),
-                new ItemLoot("what the fuck", 1 / 155f),
-                new ItemLoot("octahedron", 1 / 700f),
-                new ItemLoot("LEGS", 1 / 700f)
+                new ItemLoot("what the fuck", 1 / 50f),
+                new ItemLoot("octahedron", 1 / 200f),
+                new ItemLoot("LEGS", 1 / 200f)
                 )
             )
         .Init("SKELETON Spawner",
@@ -2941,7 +2942,7 @@ namespace wServer.logic
                     new ItemLoot("STARFORCE Key", 1 / 15f),
                     //new ItemLoot("Spirit of the Heart", 1 / 1000f),
                     new ItemLoot("HANDCANNON", 1 / 30000f),
-                    new ItemLoot("green bean lean machine", 1 / 150f)
+                    new ItemLoot("green bean lean machine", 1 / 100f)
                 )
             )
 
@@ -2971,7 +2972,7 @@ namespace wServer.logic
                     new ItemLoot("STARFORCE Key", 1 / 15f),
 
                     new ItemLoot("Roft Neccopolis Key", 1 / 100f),
-                    new ItemLoot("no mana?", 1 / 150f)
+                    new ItemLoot("no mana?", 1 / 100f)
                 )
             )
 
@@ -3028,7 +3029,7 @@ namespace wServer.logic
                     //new ItemLoot("Spirit of the Heart", 1 / 1000f),
                     new ItemLoot("STARFORCE Key", 1 / 15f),
 
-                    new ItemLoot("gemgem's gemgem and gem gem's gem", 1 / 150f)
+                    new ItemLoot("gemgem's gemgem and gem gem's gem", 1 / 100f)
                 )
             )
         .Init("rock man i forgot name",
@@ -3056,7 +3057,7 @@ namespace wServer.logic
                     new ItemLoot("STARFORCE Key", 1 / 15f),
 
                     //new ItemLoot("Dreadcull T8 Upgrade", 1 / 3000f),
-                    new ItemLoot("hornyshot", 1 / 150f)
+                    new ItemLoot("hornyshot", 1 / 100f)
                 )
             )
 
@@ -3088,7 +3089,7 @@ namespace wServer.logic
                     new ItemLoot("STARFORCE Key", 1 / 15f),
 
                     //new ItemLoot("Dreadcull T8 Upgrade", 1 / 300f),
-                    new ItemLoot("uohhh ortar Enchantment :sob:", 1 / 150f)
+                    new ItemLoot("uohhh ortar Enchantment :sob:", 1 / 100f)
 
                 )
             )
@@ -3139,17 +3140,17 @@ namespace wServer.logic
                     new TimedTransition(3500, "2")
                         )),
             new Threshold(0.0001,
-                    new ItemLoot("MONKEY MONEY", 1 / 500f),
-                    new ItemLoot("da banana", 1 / 300f),
-                    new ItemLoot("moab RPG NUKE", 1 / 300f),
-                    new ItemLoot("SNIPER MONKEY HELMET", 1 / 300f),
+                    new ItemLoot("MONKEY MONEY", 1 / 150f),
+                    new ItemLoot("da banana", 1 / 150f),
+                    new ItemLoot("moab RPG NUKE", 1 / 150f),
+                    new ItemLoot("SNIPER MONKEY HELMET", 1 / 100f),
                     new ItemLoot("ASGARD Token", 1 / 175f),
                     new ItemLoot("FAVELA Token", 1 / 250f),
                     new ItemLoot("Deep Sea Token", 1 / 300f),
                     new ItemLoot("A Fallen Light (Token)", 1 / 500f),
                     new ItemLoot("bloons Key", 1 / 200f),
-                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 700f),
-                    new ItemLoot("ENGINEER MONKEY VEST", 1 / 300f)
+                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 300f),
+                    new ItemLoot("ENGINEER MONKEY VEST", 1 / 150f)
                 )
             )
             .Init("MOAB 2",
@@ -3196,16 +3197,16 @@ namespace wServer.logic
                     new TimedTransition(3000, "2")
                         )),
                 new Threshold(0.000001,
-                    new ItemLoot("MONKEY MONEY", 1 / 300f),
-                    new ItemLoot("dartling GUN", 1 / 300f),
-                    new ItemLoot("fire BLASTER", 1 / 300f),
+                    new ItemLoot("MONKEY MONEY", 1 / 150f),
+                    new ItemLoot("dartling GUN", 1 / 150f),
+                    new ItemLoot("fire BLASTER", 1 / 150f),
                     new ItemLoot("ASGARD Token", 1 / 175f),
                     new ItemLoot("FAVELA Token", 1 / 250f),
                     new ItemLoot("Deep Sea Token", 1 / 300f),
                     new ItemLoot("A Fallen Light (Token)", 1 / 500f),
                     new ItemLoot("bloons Key", 1 / 200f),
-                    new ItemLoot("monkey shuriken OG", 1 / 300f),
-                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 700f)
+                    new ItemLoot("monkey shuriken OG", 1 / 150f),
+                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 300f)
 
                 )
             )
@@ -3283,20 +3284,20 @@ namespace wServer.logic
                     new ItemLoot("lych Key", 1 / 170f),
                     new ItemLoot("bloonarius Key", 1 / 170f),
                     new ItemLoot("50k Fame", 1 / 25f),
-                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 700f),
+                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 300f),
                     new ItemLoot("bloons Key", 1 / 20f),
                     //new ItemLoot("Implosion", 1 / 35000f),
-                    new ItemLoot("MONKEY MONEY", 1 / 300f),
-                    new ItemLoot("dartling GUN", 1 / 300f),
-                    new ItemLoot("fire BLASTER", 1 / 300f),
-                    new ItemLoot("monkey shuriken OG", 1 / 300f),
-                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 700f),
+                    new ItemLoot("MONKEY MONEY", 1 / 150f),
+                    new ItemLoot("dartling GUN", 1 / 150f),
+                    new ItemLoot("fire BLASTER", 1 / 150f),
+                    new ItemLoot("monkey shuriken OG", 1 / 150f),
+                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 300f),
 
-                    new ItemLoot("MONKEY MONEY", 1 / 500f),
-                    new ItemLoot("da banana", 1 / 300f),
-                    new ItemLoot("SNIPER MONKEY HELMET", 1 / 300f),
-                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 700f),
-                    new ItemLoot("ENGINEER MONKEY VEST", 1 / 300f)
+                    new ItemLoot("MONKEY MONEY", 1 / 150f),
+                    new ItemLoot("da banana", 1 / 150f),
+                    new ItemLoot("SNIPER MONKEY HELMET", 1 / 100f),
+                    new ItemLoot("ninja monkey RAMPAGE EXTREME", 1 / 300f),
+                    new ItemLoot("ENGINEER MONKEY VEST", 1 / 150f)
                 )
             )
         .Init("bloon Spawner",
@@ -3608,13 +3609,13 @@ namespace wServer.logic
                         ))
                     ,
                 new Threshold(0.025,
-                    new ItemLoot("raindow of Maxy", 1 / 50f),
-                    new ItemLoot("zombino hand", 1 / 75f),
-                    new ItemLoot("traffic coner", 1 / 300f),
+                    new ItemLoot("raindow of Maxy", 1 / 25f),
+                    new ItemLoot("zombino hand", 1 / 50f),
+                    new ItemLoot("traffic coner", 1 / 150f),
                     new ItemLoot("PVZ ZOMBIE Key", 1 / 15f),
 
                     new ItemLoot("Dreadcull T2 Upgrade", 1 / 300f),
-                    new ItemLoot("zombie drip", 1 / 75f)
+                    new ItemLoot("zombie drip", 1 / 50f)
                 )
             )
 
@@ -3815,7 +3816,7 @@ namespace wServer.logic
                 new Threshold(0.0001,
                     //new ItemLoot("nightmare freddy testicle", 1 / 250f),
                     new ItemLoot("Dreadcull T7 Upgrade", 1 / 300f),
-                    new ItemLoot("staff Orange Nightmare", 1 / 150f),
+                    new ItemLoot("staff Orange Nightmare", 1 / 75f),
                     new ItemLoot("summer realms Katana but a sword", 1 / 150f),
                     new ItemLoot("summer realms Katana but a katana", 1 / 150f),
                     new ItemLoot("Nightmare Kitchen Key", 1 / 15f),
@@ -3866,8 +3867,8 @@ namespace wServer.logic
             new Threshold(1,
                 new ItemLoot("pea hood", 1 / 1000f),
                 new ItemLoot("vitamin COCK", 1 / 1000f),
-                new ItemLoot("rose ringAR", 1 / 1000f),
-                new ItemLoot("forbidden Garment", 1 / 1000f),
+                new ItemLoot("rose ringAR", 1 / 500f),
+                new ItemLoot("forbidden Garment", 1 / 500f),
                 new ItemLoot("green Buiver", 1 / 1000f),
                 new ItemLoot("PEA V Z Key", 1 / 15f),
                 new ItemLoot("ASGARD Token", 1 / 175f),
@@ -4976,12 +4977,12 @@ namespace wServer.logic
                     ),
             new Threshold(0.0001,
                 new ItemLoot("miku Key", 1 / 15f),
-                new ItemLoot("microphone left", 1 / 75f),
+                new ItemLoot("microphone left", 1 / 50f),
                 new ItemLoot("Legendsary Token 1", 1 / 5f),
-                new ItemLoot("hatsune miku", 1 / 75f),
-                new ItemLoot("microphone right", 1 / 75f),
+                new ItemLoot("hatsune miku", 1 / 50f),
+                new ItemLoot("microphone right", 1 / 50f),
                 new ItemLoot("Dreadcull T4 Upgrade", 1 / 300f),
-                new ItemLoot("6 dolla r :)", 1 / 400f),
+                new ItemLoot("6 dolla r :)", 1 / 150f),
                 new ItemLoot("Spaceship Token", 1 / 175f)
                     )
                 )
@@ -5354,14 +5355,14 @@ namespace wServer.logic
                     )
                     ),
                 new Threshold(0.01,
-                    new ItemLoot("sniper the GYATT", 1 / 225f),
+                    new ItemLoot("sniper the GYATT", 1 / 100f),
                     new ItemLoot("battleGato Key", 1 / 15f),
-                    new ItemLoot("catpsule armors", 1 / 225f),
+                    new ItemLoot("catpsule armors", 1 / 100f),
                     new ItemLoot("ASGARD Token", 1 / 175f),
                     new ItemLoot("FAVELA Token", 1 / 250f),
                     new ItemLoot("Deep Sea Token", 1 / 300f),
                     new ItemLoot("A Fallen Light (Token)", 1 / 500f),
-                    new ItemLoot("Dreamweaver of Darogek", 1 / 225f),
+                    new ItemLoot("Dreamweaver of Darogek", 1 / 100f),
                     new ItemLoot("key cat lol", 1/100f)
                 )
             )
@@ -5454,10 +5455,10 @@ namespace wServer.logic
           ),
           new Threshold(0.0001,
 
-              new ItemLoot("sniper the GYATT", 1 / 225f),
+              new ItemLoot("sniper the GYATT", 1 / 100f),
               new ItemLoot("battleGato Key", 1 / 15f),
-              new ItemLoot("catpsule armors", 1 / 175f),
-              new ItemLoot("God's First Mistake", 1 / 375f),
+              new ItemLoot("catpsule armors", 1 / 100f),
+              new ItemLoot("God's First Mistake", 1 / 300f),
               new ItemLoot("Spaceship Token", 1 / 175f),
               new ItemLoot("FAVELA Token", 1 / 250f),
               new ItemLoot("Deep Sea Token", 1 / 300f),
@@ -5522,11 +5523,11 @@ namespace wServer.logic
                     ),
             new Threshold(0.0001,
 
-                new ItemLoot("sniper the GYATT", 1 / 225f),
+                new ItemLoot("sniper the GYATT", 1 / 100f),
                 new ItemLoot("battleGato Key", 1 / 15f),
-                new ItemLoot("catpsule armors", 1 / 225f),
+                new ItemLoot("catpsule armors", 1 / 100f),
                 new ItemLoot("Grace of the Colossus", 1 / 300f),
-                new ItemLoot("Band of Exoneration", 1 / 300f),
+                new ItemLoot("Band of Exoneration", 1 / 150f),
                 new ItemLoot("Spaceship Token", 1 / 175f),
                 new ItemLoot("FAVELA Token", 1 / 250f),
                 new ItemLoot("Deep Sea Token", 1 / 300f),
@@ -6712,6 +6713,7 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.1,
+                new ItemLoot("dragon splooge", 1 / 1200f)
                 new ItemLoot("Fire Sword", 1),
                 new ItemLoot("the dragon egg", 1 / 3000f),
                 new ItemLoot("endstones", 1 / 300f),
