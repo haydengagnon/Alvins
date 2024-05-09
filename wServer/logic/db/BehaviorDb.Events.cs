@@ -6713,7 +6713,7 @@ namespace wServer.logic
                         )
                     ),
                 new Threshold(0.1,
-                new ItemLoot("dragon splooge", 1 / 1200f)
+                new ItemLoot("dragon splooge", 1 / 1200f),
                 new ItemLoot("Fire Sword", 1),
                 new ItemLoot("the dragon egg", 1 / 3000f),
                 new ItemLoot("endstones", 1 / 300f),
