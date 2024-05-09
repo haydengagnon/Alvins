@@ -33,12 +33,3 @@ C:\Users\Blake\source\realm\source\alvin-main\server\common\obj\Debug\common.pdb
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\common\obj\Debug\common.csproj.CopyComplete
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\common\obj\Debug\common.dll
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\common\obj\Debug\common.pdb
-C:\Alvin-Server\bin\log4net.config
-C:\Alvin-Server\bin\common.dll.config
-C:\Alvin-Server\bin\common.dll
-C:\Alvin-Server\bin\common.pdb
-C:\Alvin-Server\common\obj\Debug\common.csproj.AssemblyReference.cache
-C:\Alvin-Server\common\obj\Debug\common.csproj.CoreCompileInputs.cache
-C:\Alvin-Server\common\obj\Debug\common.csproj.Up2Date
-C:\Alvin-Server\common\obj\Debug\common.dll
-C:\Alvin-Server\common\obj\Debug\common.pdb

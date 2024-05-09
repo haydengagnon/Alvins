@@ -42,14 +42,3 @@ C:\Users\Blake\source\realm\source\alvin-main\server\server\obj\Debug\server.pdb
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\server\obj\Debug\server.csproj.CopyComplete
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\server\obj\Debug\server.exe
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\server\obj\Debug\server.pdb
-C:\Alvin-Server\server\obj\Debug\server.csproj.AssemblyReference.cache
-C:\Alvin-Server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
-C:\Alvin-Server\server\obj\Debug\server.exe
-C:\Alvin-Server\server\obj\Debug\server.pdb
-C:\Alvin-Server\bin\log4net.config
-C:\Alvin-Server\bin\wServer.json
-C:\Alvin-Server\bin\server.json
-C:\Alvin-Server\bin\server.exe.config
-C:\Alvin-Server\bin\server.exe
-C:\Alvin-Server\bin\server.pdb
-C:\Alvin-Server\server\obj\Debug\server.csproj.Up2Date

@@ -29,11 +29,3 @@ C:\Users\Blake\source\realm\source\alvin-main\server\AutoRestarter\obj\Debug\UTA
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\AutoRestarter\obj\Debug\UTAutoRestarter.csproj.CopyComplete
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\AutoRestarter\obj\Debug\UTAutoRestarter.exe
 \\wsl.localhost\Ubuntu\home\gagnonclaire\AlvinServer\server\AutoRestarter\obj\Debug\UTAutoRestarter.pdb
-C:\Alvin-Server\bin\UTAutoRestarter.exe.config
-C:\Alvin-Server\bin\UTAutoRestarter.exe
-C:\Alvin-Server\bin\UTAutoRestarter.pdb
-C:\Alvin-Server\AutoRestarter\obj\Debug\UTAutoRestarter.csproj.AssemblyReference.cache
-C:\Alvin-Server\AutoRestarter\obj\Debug\UTAutoRestarter.csproj.CoreCompileInputs.cache
-C:\Alvin-Server\AutoRestarter\obj\Debug\UTAutoRe.B1D87CBF.Up2Date
-C:\Alvin-Server\AutoRestarter\obj\Debug\UTAutoRestarter.exe
-C:\Alvin-Server\AutoRestarter\obj\Debug\UTAutoRestarter.pdb
